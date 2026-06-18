@@ -1,0 +1,55 @@
+nama_asli,kalori,protein,kategori_asal,saran_ai,mudah_dicerna,tinggi_protein,tinggi_kalori,tinggi_serat,rendah_lemak,laktosa,asam,pedas,berminyak,kafein
+Dada Ayam Fillet,110,23.0,Chicken,Protein tinggi dan rendah lemak; baik untuk menjaga massa otot dan pemulihan tubuh.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Paha Ayam,150,19.0,Chicken,Tekstur lebih lembut dan mengandung energi lebih tinggi; cocok untuk kebutuhan kalori tambahan.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Daging Kambing,143,27.0,Goat,Tinggi protein dan zat besi; baik dikonsumsi secukupnya dengan olahan rendah minyak.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Ikan Patin,145,15.0,Fish,Mengandung lemak sehat dan protein; cocok dikukus atau dibakar.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Ikan Gurame,125,18.0,Fish,Tekstur lembut dan mudah dikonsumsi; cocok untuk menu harian.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Ikan Nila,128,26.0,Fish,Protein ikan air tawar yang tinggi; praktis diolah dengan cara dibakar atau dikukus.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Hati Ayam,116,17.0,Chicken,Kaya zat besi dan vitamin A; baik untuk membantu memenuhi kebutuhan nutrisi harian.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Telur,150,13.0,Egg,Sumber protein yang mudah dikonsumsi dan membantu pemulihan tubuh.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Beras Merah,110,2.6,Rice,Serat lebih tinggi dibanding nasi putih; membantu rasa kenyang lebih lama.,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Singkong Putih,160,1.4,Carbo,Sumber energi alternatif selain nasi dan mudah ditemukan di pasar tradisional.,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Ubi Jalar,115,1.6,Carbo,Karbohidrat kompleks dengan serat yang baik untuk energi harian.,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Daging Bebek,337,19.0,Poultry,Tinggi kalori dan protein; cocok untuk kebutuhan energi lebih besar.,tidak,ya,ya,tidak,tidak,tidak,tidak,tidak,ya,tidak
+Ikan Lele,105,18.0,Fish,Sumber protein lokal yang mudah ditemukan dan cukup terjangkau.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Ikan Kembung,112,21.4,Fish,Kaya omega-3 dan protein; baik untuk kesehatan tubuh secara umum.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Ikan Tongkol,150,24.0,Fish,Protein tinggi yang membantu menjaga massa otot.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Udang Segar,85,20.0,Fish,Protein tinggi dan rendah lemak; cocok sebagai sumber protein tambahan.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Cumi-Cumi,92,15.6,Fish,Rendah lemak dan mengandung protein serta mineral penting.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Kentang,77,2.0,Carbo,Karbohidrat yang lembut di lambung dan mudah diolah.,ya,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Jagung Manis,86,3.2,Carbo,Mengandung serat dan karbohidrat untuk tambahan energi harian.,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Talas,112,1.5,Carbo,Sumber karbohidrat alternatif dengan kandungan serat yang cukup baik.,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Mie Kuning,138,4.5,Carbo,Sumber energi praktis; lebih baik dikonsumsi bersama protein dan sayur.,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Bihun,175,1.0,Carbo,Karbohidrat ringan yang cocok dipadukan dengan lauk berprotein.,ya,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Tempe Kedelai,193,20.3,Local,Protein nabati tinggi yang baik untuk menu harian.,tidak,ya,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Tahu Putih,76,8.0,Local,Tekstur lembut dan mudah dicerna; cocok untuk berbagai kondisi tubuh.,ya,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Tahu Kuning,80,8.5,Local,Sumber protein nabati yang praktis dan mudah diolah.,ya,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Putih Telur,52,11.0,Egg,Rendah kalori dan tinggi protein; cocok untuk diet tinggi protein.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Ikan Tuna,132,28.0,Fish,Tinggi protein dan rendah lemak; cocok untuk kebutuhan protein harian.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Ikan Bandeng,123,20.0,Fish,Sumber protein lokal yang cocok dikonsumsi sebagai menu utama.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Ikan Kakap,128,26.0,Fish,Protein tinggi dan rendah lemak; cocok untuk pola makan sehat.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Sayap Ayam,203,18.0,Chicken,Mengandung protein dan energi lebih tinggi dibanding dada ayam.,tidak,ya,ya,tidak,tidak,tidak,tidak,tidak,ya,tidak
+Nasi Putih,130,2.7,Rice,Sumber energi utama yang umum dikonsumsi sehari-hari.,ya,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Oatmeal,68,2.4,Carbo,Tinggi serat dan cocok untuk menu sarapan sehat.,tidak,tidak,tidak,ya,ya,tidak,tidak,tidak,tidak,tidak
+Roti Gandum,247,13.0,Carbo,Mengandung serat lebih tinggi dibanding roti putih biasa.,tidak,tidak,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Roti Tawar,265,9.0,Carbo,Mudah dikonsumsi dan praktis sebagai sumber energi.,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Pasta,131,5.0,Carbo,Sumber karbohidrat yang cocok dipadukan dengan protein dan sayuran.,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Macaroni,158,5.8,Carbo,Karbohidrat praktis untuk tambahan energi.,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Kwetiau,175,3.0,Carbo,Sumber energi yang cocok dipadukan dengan lauk berprotein.,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Soun,351,0.2,Carbo,Sumber karbohidrat ringan yang biasa digunakan dalam sup atau tumisan.,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Ikan Gabus,120,22.0,Fish,Tinggi protein dan mudah ditemukan di banyak pasar tradisional.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Ikan Mujair,89,18.0,Fish,Sumber protein yang terjangkau dan cocok untuk menu sehari-hari.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Ikan Mas,127,17.0,Fish,Ikan air tawar yang umum ditemukan dan mudah diolah.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Ikan Bawal,128,19.0,Fish,Sumber protein yang sering dijual di pasar dan supermarket.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Ikan Sarden,140,20.0,Fish,Mengandung protein dan lemak sehat yang baik untuk tubuh.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Ayam Rebus,165,22.0,Chicken,Sumber protein yang mudah dicerna dan cocok untuk berbagai kondisi tubuh.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Ayam Bakar,190,24.0,Chicken,Sumber protein yang populer dan mudah ditemukan.,tidak,ya,ya,tidak,tidak,tidak,tidak,tidak,ya,tidak
+Ayam Kampung,174,25.0,Chicken,Mengandung protein tinggi dan sering digunakan dalam masakan rumahan.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Bubur,80,5.0,Rice,Mudah dicerna dan lebih ramah untuk lambung sensitif.,ya,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Nasi Jagung,119,2.8,Rice,Sumber energi alternatif yang cukup umum di beberapa daerah Indonesia.,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Kacang Hijau Rebus,105,7.0,Local,Sumber protein nabati dan serat yang mudah ditemukan.,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Oncom,187,13.0,Local,Sumber protein nabati yang umum dijumpai terutama di Jawa Barat.,tidak,tidak,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Daging Sapi,170,25.0,Beef,Sumber protein dan zat besi yang baik untuk kebutuhan harian.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Kerang Hijau,79,14.0,Fish,Sumber protein dan mineral seperti zat besi dan seng.,ya,ya,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Sup Ayam,40,4.0,Chicken,Membantu memenuhi kebutuhan cairan dan energi saat sakit.,ya,tidak,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Ikan Salmon,208,20.0,Fish,Kaya omega-3 dan protein berkualitas tinggi untuk kesehatan tubuh.,ya,ya,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak

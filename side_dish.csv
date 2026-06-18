@@ -1,0 +1,61 @@
+nama_asli,kalori,protein,kategori_asal,saran_ai,mudah_dicerna,tinggi_serat,tinggi_air,tinggi_protein,tinggi_kalori,laktosa,asam,kafein
+Bayam Hijau,23,2.4,Vegetable,Kaya zat besi dan serat; baik untuk kebutuhan nutrisi harian.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Labu Siam,19,0.8,Vegetable,Rendah kalori dan mengandung banyak air; cocok untuk menu ringan.,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Kacang Merah,127,8.7,Nut,Tinggi serat dan protein nabati; membantu rasa kenyang lebih lama.,tidak,ya,tidak,ya,ya,tidak,tidak,tidak
+Semangka,30,0.6,Fruit,Kandungan air tinggi; membantu menjaga hidrasi tubuh.,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Jambu Biji Merah,68,2.6,Fruit,Kaya vitamin C dan serat; baik untuk daya tahan tubuh.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Pepaya,43,0.5,Fruit,Mengandung enzim papain dan serat; baik untuk pencernaan.,ya,ya,ya,tidak,tidak,tidak,tidak,tidak
+Susu Sapi Murni,62,3.3,Milk,Sumber kalsium dan protein; baik untuk kebutuhan tulang dan otot.,tidak,tidak,tidak,tidak,tidak,ya,tidak,tidak
+Pisang,89,1.1,Fruit,Mengandung kalium dan karbohidrat alami untuk energi harian.,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Brokoli,34,2.8,Vegetable,Kaya serat dan antioksidan; baik untuk pola makan sehat.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Wortel,41,0.9,Vegetable,Mengandung beta-karoten yang baik untuk kesehatan mata.,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Jeruk,47,0.9,Fruit,Sumber vitamin C alami untuk kebutuhan harian.,tidak,tidak,ya,tidak,tidak,tidak,ya,tidak
+Kacang Hijau,115,7.0,Nut,Sumber protein nabati dan serat; cocok untuk tambahan energi.,tidak,ya,tidak,ya,tidak,tidak,tidak,tidak
+Pare Hijau,17,1.0,Vegetable,Rendah kalori dan mengandung serat yang baik untuk pola makan sehat.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Daun Kelor,64,9.4,Vegetable,Mengandung vitamin dan mineral yang cukup tinggi.,tidak,ya,tidak,ya,tidak,tidak,tidak,tidak
+Daun Pepaya,79,8.0,Vegetable,Mengandung serat dan biasa dikonsumsi sebagai sayuran pendamping.,tidak,ya,tidak,ya,tidak,tidak,tidak,tidak
+Jamur Tiram,33,3.3,Vegetable,Rendah kalori dan mengandung serat serta protein nabati.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Mentimun,15,0.7,Vegetable,Kandungan air tinggi dan menyegarkan untuk menu harian.,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Tomat Merah,18,0.9,Vegetable,Mengandung vitamin dan antioksidan alami.,tidak,tidak,ya,tidak,tidak,tidak,ya,tidak
+Melon Orange,34,0.8,Fruit,Mengandung vitamin A dan air yang cukup tinggi.,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Sirsak,66,1.0,Fruit,Buah dengan kandungan vitamin dan serat yang baik.,tidak,ya,ya,tidak,tidak,tidak,ya,tidak
+Buah Alpukat,160,2.0,Fruit,Mengandung lemak sehat dan serat; baik untuk tambahan energi.,tidak,ya,tidak,tidak,ya,tidak,tidak,tidak
+Kangkung,19,2.6,Vegetable,Sayuran hijau yang mengandung zat besi dan serat.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Sawi Hijau,13,1.5,Vegetable,Rendah kalori dan cocok untuk menu sayuran harian.,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Terong,25,1.0,Vegetable,Mengandung serat dan antioksidan alami.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Buah Naga,51,0.8,Fruit,Tinggi serat dan mengandung berbagai vitamin alami.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Mangga,60,0.8,Fruit,Mengandung vitamin A dan C untuk kebutuhan nutrisi harian.,tidak,tidak,tidak,tidak,tidak,tidak,ya,tidak
+Susu Kedelai,54,3.3,Milk,Sumber protein nabati cair yang rendah laktosa.,ya,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Apel Merah,52,0.3,Fruit,Mengandung serat dan cocok untuk camilan sehat.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Apel Hijau,48,0.3,Fruit,Rasa lebih segar dengan kandungan serat yang baik.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Pir,57,0.4,Fruit,Buah dengan kandungan air dan serat yang cukup tinggi.,ya,ya,ya,tidak,tidak,tidak,tidak,tidak
+Anggur,69,0.7,Fruit,Mengandung antioksidan alami dan cocok sebagai camilan.,tidak,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Stroberi,32,0.7,Fruit,Kaya vitamin C dan rendah kalori.,tidak,tidak,ya,tidak,tidak,tidak,ya,tidak
+Selada,15,1.4,Vegetable,Rendah kalori dan cocok sebagai pelengkap sayuran.,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Kol Putih,25,1.3,Vegetable,Sumber serat yang baik untuk menu harian.,tidak,ya,ya,tidak,tidak,tidak,tidak,tidak
+Buncis,31,1.8,Vegetable,Mengandung serat dan vitamin untuk kebutuhan nutrisi.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Kembang Kol,25,1.9,Vegetable,Sayuran rendah kalori yang cocok untuk pola makan sehat.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Edamame,121,11.0,Nut,Sumber protein nabati dan serat yang baik.,tidak,ya,tidak,ya,ya,tidak,tidak,tidak
+Kacang Tanah,567,25.0,Nut,Sumber energi dan protein nabati yang mudah ditemukan.,tidak,ya,tidak,ya,ya,tidak,tidak,tidak
+Yogurt Plain,59,10.0,Milk,Mengandung protein dan probiotik untuk pencernaan.,tidak,tidak,tidak,ya,tidak,ya,tidak,tidak
+Keju Rendah Lemak,173,24.0,Milk,Sumber protein dan kalsium; cocok dikonsumsi secukupnya.,tidak,tidak,tidak,ya,ya,ya,tidak,tidak
+Daun Singkong,37,3.7,Vegetable,Mengandung serat dan berbagai vitamin yang baik untuk tubuh.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Daun Katuk,59,6.4,Vegetable,Mengandung vitamin dan mineral yang membantu melengkapi kebutuhan nutrisi harian.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Sawi Putih,16,1.2,Vegetable,Rendah kalori dan cocok sebagai pelengkap menu sehari-hari.,ya,ya,ya,tidak,tidak,tidak,tidak,tidak
+Pakcoy,13,1.5,Vegetable,Rendah kalori dan mudah dipadukan dengan berbagai masakan.,ya,ya,ya,tidak,tidak,tidak,tidak,tidak
+Tauge,30,3.0,Vegetable,Mengandung serat dan protein nabati dalam jumlah ringan.,ya,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Seledri,16,0.7,Vegetable,Rendah kalori dan sering digunakan sebagai pelengkap makanan.,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Daun Bawang,32,1.8,Vegetable,Menambah cita rasa sekaligus mengandung vitamin dan mineral.,tidak,tidak,tidak,tidak,tidak,tidak,tidak,tidak
+Oyong,19,0.8,Vegetable,Mengandung banyak air dan cocok untuk menu berkuah.,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Lobak Putih,18,0.6,Vegetable,Rendah kalori dan mengandung serat yang baik untuk tubuh.,ya,tidak,ya,tidak,tidak,tidak,tidak,tidak
+Nanas,50,0.5,Fruit,Mengandung vitamin C dan memberikan rasa segar.,tidak,ya,ya,tidak,tidak,tidak,ya,tidak
+Salak,82,0.8,Fruit,Mengandung serat dan cocok sebagai camilan buah.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Rambutan,68,0.9,Fruit,Mengandung vitamin dan air yang membantu hidrasi tubuh.,tidak,ya,ya,tidak,tidak,tidak,tidak,tidak
+Manggis,73,0.4,Fruit,Mengandung antioksidan alami yang baik untuk tubuh.,tidak,ya,tidak,tidak,tidak,tidak,tidak,tidak
+Belimbing,31,1.0,Fruit,Rendah kalori dan mengandung vitamin serta air.,tidak,ya,ya,tidak,tidak,tidak,ya,tidak
+Jambu Air,46,0.6,Fruit,Mengandung banyak air dan membantu menjaga hidrasi tubuh.,ya,ya,ya,tidak,tidak,tidak,tidak,tidak
+Kurma,282,2.5,Fruit,Sumber energi alami yang praktis untuk dikonsumsi.,tidak,ya,tidak,tidak,ya,tidak,tidak,tidak
+Susu UHT Rendah Lemak,42,3.3,Milk,Sumber protein dan kalsium dengan kandungan lemak lebih rendah.,ya,tidak,tidak,tidak,tidak,ya,tidak,tidak
+Susu Skim,34,3.4,Milk,Rendah lemak dan tetap mengandung protein serta kalsium.,ya,tidak,tidak,tidak,tidak,ya,tidak,tidak
+Kacang Mete,553,18.0,Nut,Mengandung lemak sehat dan protein nabati untuk tambahan energi.,tidak,ya,tidak,ya,ya,tidak,tidak,tidak
+Kacang Almond,579,21.0,Nut,Sumber lemak sehat dan protein nabati.,tidak,ya,tidak,ya,ya,tidak,tidak,tidak
